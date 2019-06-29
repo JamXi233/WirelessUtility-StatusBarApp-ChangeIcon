@@ -15,4 +15,4 @@ Change Icons-Look More Beautiful / 更改图标-让它看起来更漂亮
 ## 截图
 
 * ![小黄鸡](https://raw.githubusercontent.com/JamXi233/WirelessStatusBarApp-Change-Icon/master/ReadMe-Pic/info.png)
-*               蓝  绿  M
+*               绿  蓝  M
