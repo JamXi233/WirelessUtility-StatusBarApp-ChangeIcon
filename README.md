@@ -1,5 +1,5 @@
-# StatusBarApp-ChangeIcon
-Change Icons-Look More Beautiful / 更改图标-让它看起来更漂亮
+# StatusBarApp-ChangeIcon For MacOS
+Change Icons-Look More Beautiful / 更改USB无线网卡管理器图标-让它看起来更漂亮
 
 ## 样式
 
