@@ -14,5 +14,6 @@ Change Icons-Look More Beautiful / 更改USB无线网卡管理器图标-让它�
 
 ## 截图
 
-* ![小黄鸡](https://raw.githubusercontent.com/JamXi233/WirelessStatusBarApp-Change-Icon/master/ReadMe-Pic/info.png)
-*               绿  蓝  M
+* ![预览图](https://raw.githubusercontent.com/JamXi233/WirelessStatusBarApp-Change-Icon/master/ReadMe-Pic/info.png)
+
+此项目不会经常更新
